@@ -11,4 +11,4 @@ Analyse the android.apk . <br />
 ## Solutions and Resources
 **Flag**: CTF{Th1s_1s_4_S3cr3t_Fl4g}
 
-Solutions and resources are available in the 'solutions' folder
+Solutions and resources 'solutions' folder coming soon
